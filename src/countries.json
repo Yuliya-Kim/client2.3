@@ -1,0 +1,21 @@
+{
+  "countries": [
+    {
+      "name": "Россия",
+      "countryId": "ru"
+    },
+    {
+      "name": "Китай",
+      "countryId": "cn"
+    },
+    {
+      "name": "Индия",
+      "countryId": "in"
+    },
+    {
+      "name": "США",
+      "countryId": "us"
+    }
+
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "components": [
+    { 
+      "id": 1,
+      "name": "3030 2835 155mm 118 In 1 Highbay Lighting Lens For Led",
+      "link": "https://www.darkoo.cc/product/3030-2835-155mm-118-in-1-highbay-lighting-lens-for-led",
+      "type": "Линза",
+      "brand": "Darkoo Optics",
+      "brandSite": "https://www.darkoo.cc/",
+      "country": "Китай",
+      "countryType": "ok",
+      "hasAnalogue": true,
+      "specification": 
+        {
+          "diameter": {"text": "Диаметр, мм", "value": "140"},
+          "height": {"text": "Высота, мм", "value": "8,2"},
+          "angle": {"text": "Угол, °", "value": "60"},
+
+          "material": {"text": "Материал", "value": "Оптический поликарбонат"},
+          "temperature_resistance": {"text": "Temp. resistance, °C", "value": "-35 - +135"},
+          "LED Series": {"text": "LED Series", "value": "3030"},
+          "description": "1.This lens is for led highbay light, can use for 2835 and 3030 led source, complete in sizes and beam angles.2.As our good production capacity, so we have short delivery time. 3.Our lamp lenses is cost-effective."
+        },
+      "notes": [
+        {
+          "author": "Леонид Ягодкин",
+          "initials": "ЛЯ",
+          "date": "17 июл 2022, 13:22:09",
+          "text": "Хорошая линза, красивая!"
+        },
+        {
+          "author": "Леонид Ягодкин",
+          "initials": "ЛЯ",
+          "date": "17 июл 2022, 13:25:15",
+          "text": "Мне очень понравилась, давайте такие закажем!"
+        },
+        {
+          "author": "Варвара Варежкина",
+          "initials": "ВВ",
+          "date": "18 июл 2022, 09:15:34",
+          "text": "Мне тоже нравится, надо много таких"
+        }
+      ]
+      
+    },
+
+    { 
+      "id": 2,
+      "name": "212mm 242 In 1 60degree High Bay Light Lens Lighting Optics",
+      "link": "https://www.darkoo.cc/product/212mm-242-in-1-60degree-high-bay-light-lens-lighting-optics",
+      "type": "Линза",
+      "brand": "Darkoo Optics",
+      "country": "Китай",
+      "countryType": "ok",
+      "hasAnalogue": true,
+      "specification": 
+        {
+          "diameter": "193 мм",
+          "height": "8,2 мм",
+          "angle": "60°",
+          "material": "Оптический поликарбонат",
+          "temperature_resistance": "-35°C - +135°C",
+          "LED Series": "3030",
+          "description": "1.This large lens is 212mm length and 242 in 1, use for led highbay light. 2.As our good production capacity, so we have short delivery time. 3.Our raw materials is good quality PC-UV, can be high-efficency."
+          
+        },
+      "notes": "Хорошая линза, красивая!"
+    },
+    { 
+      "id": 3,
+      "name": "Arm Cortex M0 N32G020 MCU",
+      "link": "https://www.nationstech.com/en/N32G020MCUs/",
+      "type": "Микроконтроллер",
+      "brand": "NationsTech",
+      "country": "Китай",
+      "countryType": "ok",
+      "specification": 
+        {
+          "core": "ARM Cortex-M0",
+          "max_freq": "80 МГц",
+          "operating_voltage": "1,8 - 5,5 В",
+          "operating-temp": "-40°C - 85°C",
+          "GPIOs": "25",
+          "Interfaces": {
+            "SPI": 1,
+            "I2C": 1,
+            "UART": 2,
+            "USB2.0 FS": "-",
+            "ISO07816": 1
+          },
+          "description": "N32G020 MCUs are based on 32-bit ARM Cortex-M0 core with a maximum operating frequency up to 80MHz. The series integrates up to 256K Flash, 20K SRAM, 1K Retention RAM, and up to 30 GPIOs, supports the following peripheral communication interfaces, 12-bit 1Msps SAR ADC, 10-bit DAC, analog comparator, RTC real-time clock, multi-channel complementary output PWM, USB2.0 (Full Speed) Device, multi-channel SPI, UART, I2C, ISO7816，and also integrates two-channel 3.3V LDO outputs. The Series equip with a variety of encryption algorithm hardware acceleration engine complying with international Standard. It can provide high-performance DES / 3DES, AES, SHA, RSA, ECC international algorithms, with multiple power consumption operating modes, of which PowerDown (Typ) is 0.1uA."
+          
+        },
+      "notes": "Тут какой-то комментарий про эту штуку......."
+    },
+
+    { 
+      "id": 1,
+      "name": "Какая-то линза из недружественной страны",
+      "link": "https://www.darkoo.cc/product/3030-2835-155mm-118-in-1-highbay-lighting-lens-for-led",
+      "type": "Линза",
+      "brand": "EvilAndNotFriendlyComp",
+      "brandSite": "https://www.darkoo.cc/",
+      "country": "USA",
+      "countryType": "notOK",
+      "hasAnalogue": true,
+      "specification": 
+        {
+          "diameter": {"text": "Диаметр, мм", "value": "140"},
+          "height": {"text": "Высота, мм", "value": "8,2"},
+          "angle": {"text": "Угол, °", "value": "60"},
+
+          "material": {"text": "Материал", "value": "Оптический поликарбонат"},
+          "temperature_resistance": {"text": "Temp. resistance, °C", "value": "-35 - +135"},
+          "LED Series": {"text": "LED Series", "value": "3030"},
+          "description": "1.This lens is for led highbay light, can use for 2835 and 3030 led source, complete in sizes and beam angles.2.As our good production capacity, so we have short delivery time. 3.Our lamp lenses is cost-effective."
+        },
+      "notes": [
+        {
+          "author": "Савелий Крекер",
+          "initials": "СК",
+          "date": "12 июл 2022, 09:22:12",
+          "text": "Жалко этого добряка, но придётся заменить((("
+        }
+      ]
+      
+    }
+  ]
+}
+
+

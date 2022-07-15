@@ -1,0 +1,76 @@
+{
+  "brands": [
+    {
+      "id": 0,
+      "name": "Darkoo Optics",
+      "country": "Китай",
+      "countryType": "OK",
+      "site": "https://www.darkoo.cc/",
+      "compTypes": ["Линзы", "Рефлекторы"],
+      "logo": "",
+      "notes": ""
+    },
+    {
+      "id": 1,
+      "name": "Huajing",
+      "country": "Китай",
+      "countryType": "OK",
+      "site": "https://www.thyristor.com.cn/",
+      "compTypes": ["Тиристорные модули", "Тиристорно-диодные модули", "Диодные модули"],
+      "logo":  "huaging.png",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "Optiks Mechatronics",
+      "country": "Индия",
+      "countryType": "OK",
+      "site": "https://optiksmechatronics.com/",
+      "compTypes": ["Линзы"],
+      "logo": "",
+      "notes": "До 2022г. в основном торговали на индийском и китайском рынках, поэтому их продукция пока не сильно адаптирована под наш рынок, однако есть варианты полных аналогов модульных линз Ledil IP-2X6, IP-28, 2X2 и пр., а так же одиночные линзы."
+    },
+    {
+      "id": 3,
+      "name": "DioTech",
+      "country": "Россия",
+      "countryType": "OK",
+      "site": "https://dio-tech.ru/",
+      "compTypes": ["Дискретные компоненты"],
+      "logo":  "",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "NationsTech",
+      "country": "Китай",
+      "countryType": "OK",
+      "site": "https://www.nationstech.com/",
+      "compTypes": ["Микроконтроллеры"],
+      "logo": "",
+      "notes": "Микроконтроллеры-аналоги STM32. Есть решения на ядрах M4, M0, а так же NFC frontend и BLE решения. . Есть SDK, схемотехника, примеры софта. Образцы и отладки заказаны."
+    },
+    {
+      "id": 5,
+      "name": "Acro Engineering",
+      "country": "Индия",
+      "countryType": "OK",
+      "site": "https://acrotechindia.com/index.php",
+      "compTypes": ["Источники питания"],
+      "logo":  "",
+      "notes": "Производитель AC/DC источников питания. Возможно изготовление блоков с логотипом заказчика."
+    },
+    {
+      "id": 6,
+      "name": "EvilAndNotFriendlyComp",
+      "country": "США",
+      "countryType": "notOK",
+      "site": "",
+      "compTypes": ["Линзы"],
+      "logo":  "",
+      "notes": ""
+    }
+  ]
+}
+
+

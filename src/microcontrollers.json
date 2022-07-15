@@ -1,0 +1,169 @@
+{
+  "microcontrollers": [
+    {
+      "id": 0,
+      "name": "Пемолюкс TMS320F280037C",
+      "brand": "UnfriendlyMicrocontrollers",
+      "country": "USA",
+
+
+        "subFamily": "C2000 real-time microcontrollers",
+        "CPU": ["C28x", "CLA"],
+        "frequency": [120],
+        "flashMemory": [256],
+        "RAM": [69],
+        "ADC": ["3 12-bit"],
+        "GPIO": [51, 39, 26, 25, 14],
+        "commInterface": ["CAN", "CAN FD", "FSI", "I2C", "LIN", "PMBUS", "SCI", "SPI", "UART"],
+        "UART": [4],
+        "features": ["CAN FD", "Configurable logic block", "Dual security zones", "FPU32"],
+        "packageGroup": [
+          {
+            "type": "LQFP",
+            "pinsNum": 48
+          }
+        ],
+        "tempMin": -40,
+        "tempMax": 125
+      
+      
+    },
+    {
+      "id": 1,
+      "name": "Кржемелик AM2732-Q1",
+      "brand": "BibaElectronics",
+      "country": "USA",
+
+
+        "subFamily": "Arm-based microcontrollers",
+        "CPU": ["Arm Cortex-R5F"],
+        "frequency": [400],
+        "flashMemory": [null],
+        "RAM": [5120],
+        "ADC": ["10-bit SAR"],
+        "GPIO": [94],
+        "commInterface": [null],
+        "UART": [4],
+        "features": ["CAN FD", "Configurable logic block", "Dual security zones", "FPU32"],
+        "packageGroup": [
+          {
+            "type": "NFBGA ",
+            "pinsNum": 285
+          }
+        ],
+        "tempMin": -40,
+        "tempMax": 140
+      
+    },
+    {
+      "id": 2,
+      "name": "Вахмурка RM48L940",
+      "brand": "Чечевичка",
+      "country": "Россия",
+
+
+        "subFamily": "Arm-based microcontrollers",
+        "CPU": ["Arm Cortex-R4F"],
+        "frequency": [200],
+        "flashMemory": [3072],
+        "RAM": [256],
+        "ADC": ["2 x 12-Bit (24ch)"],
+        "GPIO": [64, 144],
+        "commInterface": ["CAN", "Ethernet", "SPI", "UART"],
+        "UART": [2],
+        "features": ["Hercules high-performance microcontroller"],
+        "packageGroup": [
+          {
+            "type": "NFBGA",
+            "pinsNum": 337
+          }
+        ],
+        "tempMin": -40,
+        "tempMax": 105
+      
+    },
+    {
+      "id": 3,
+      "name": "Вупсень TMS320F28051",
+      "brand": "АО 'Крутые Микроконтроллеры'",
+      "country": "Россия",
+
+
+        "subFamily": "C2000 real-time microcontrollers",
+        "CPU": ["C28x"],
+        "frequency": [60],
+        "flashMemory": [64],
+        "RAM": [20],
+        "ADC": ["12-Bit"],
+        "GPIO": [42],
+        "commInterface": ["CAN", "I2C", "SPI", "UART"],
+        "UART": [3],
+        "features": ["32-bit CPU timers", "PGA", "Single zone code security", "Watchdog timer"],
+        "packageGroup": [
+          {
+            "type": "LQFP",
+            "pinsNum": 80
+          }
+        ],
+        "tempMin": -40,
+        "tempMax": 105
+      
+    },
+    {
+      "id": 4,
+      "name": "Ядвига F28M36H33B2",
+      "brand": "НИИ 'Независимость'",
+      "country": "Россия",
+
+
+        "subFamily": "C2000 real-time microcontrollers",
+        "CPU": ["C28x", "Cortex-M3"],
+        "frequency": [150, 100],
+        "flashMemory": [768],
+        "RAM": [232],
+        "ADC": ["2 12-bit"],
+        "GPIO": [124],
+        "commInterface": ["CAN", "I2C", "SPI", "UART"],
+        "UART": [6],
+        "features": [null],
+        "packageGroup": [
+          {
+            "type": "NFBGA",
+            "pinsNum": 289
+          }
+        ],
+        "tempMin": -40,
+        "tempMax": 105
+      
+    },
+    {
+      "id": 5,
+      "name": "Фикус RM44L520",
+      "brand": "Выдуманная компания",
+      "country": "Белорусь",
+
+
+        "subFamily": "Arm-based microcontrollers",
+        "CPU": ["Arm Cortex-R4F"],
+        "frequency": [180],
+        "flashMemory": [768],
+        "RAM": [128],
+        "ADC": ["2 x 12-Bit (24ch)", "2 x 12-Bit (16ch)"],
+        "GPIO": [124],
+        "commInterface": ["CAN", "I2C", "SPI", "UART"],
+        "UART": [6],
+        "features": [null],
+        "packageGroup": [
+          {
+            "type": "NFBGA",
+            "pinsNum": 289
+          }
+        ],
+        "tempMin": -40,
+        "tempMax": 105
+      
+    }
+  ]
+}
+
+
